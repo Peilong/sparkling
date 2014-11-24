@@ -1,0 +1,49 @@
+/*
+ * Author: Peilong Li
+ * Date: 02/20/2014
+ * Purpose: CSS file for index page
+ */
+
+/********** Main Body **********/
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/********* Header & Title ********/
+#title{
+    margin: 0px;
+    padding: 10px;
+    background-color: #b82619;
+    width: 100%;
+    height: 45px;
+    font-size: 27px;
+}
+#name{
+    margin: 5px 10px 5px 10px;
+    padding: 5px;
+    height: 30px;
+}
+#t1{
+    font-family: verdana;
+    font-weight: bold;
+    font-style: italic;
+}
+#t2{
+    font-family: arial;
+    color: #FFFFFF;
+}
+
+/********** Content ************/
+#content{
+    margin: 0 0 0 0;
+    width: 100%;
+}
+
+/********* Radio Button ********/
+#radio{
+    margin: -20px 0 0 0;
+    padding: 0px;
+    font-size: 12px;
+    width: 100%;
+}
